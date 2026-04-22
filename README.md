@@ -31,6 +31,12 @@ Manual inspection in industries is time-consuming and prone to errors. This mode
 🔗 Colab Link
 https://colab.research.google.com/drive/1jqqXuWdceyU4yUQ1PhZ9hCzNZESjiUbz#scrollTo=9bcad96c-f6d2-4c43-bf90-d963305112af
 
+
+## 📂 Dataset
+The dataset is stored externally due to size limitations.
+
+🔗 Google Drive Link: https://drive.google.com/drive/folders/1hsw9LpLXhgGo9hUiLc3ybGORdWM6cFOx
+
 Future Improvements
 - Add Vision Transformer (ViT)
 - Improve dataset size
