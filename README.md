@@ -1,25 +1,25 @@
-# Metal Surface Defect Detection
+## Metal Surface Defect Detection
 
-#Overview
+## Overview
 This project focuses on detecting defects in metal surfaces using deep learning techniques.
 Manual inspection in industries is time-consuming and prone to errors. This model automates the process using image classification.
 
-#Approach
+## Approach
 - Implemented a Convolutional Neural Network (CNN)
 - Trained on labeled defect images
 - Evaluated model performance on test data
 
-#Tech Stack
+## Tech Stack
 - Python
 - TensorFlow
 - Keras
 - OpenCV
 - Google Colab
 
-#Results
+## Results
 - Accuracy: 85%
   
-#How to Run
+## How to Run
 1. Open the notebook (`cnn.ipynb`)
 2. Run all cells step-by-step
 3. Upload dataset if required
