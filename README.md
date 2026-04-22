@@ -37,7 +37,8 @@ The dataset is stored externally due to size limitations.
 
 🔗 Google Drive Link: https://drive.google.com/drive/folders/1hsw9LpLXhgGo9hUiLc3ybGORdWM6cFOx
 
-Future Improvements
+
+## Future Improvements
 - Add Vision Transformer (ViT)
 - Improve dataset size
 - Deploy as web app
